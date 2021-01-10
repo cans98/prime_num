@@ -1,0 +1,7 @@
+C:\Users\alibs\source\repos\prime_num\prime_num\bin\Debug\prime_num.exe.config
+C:\Users\alibs\source\repos\prime_num\prime_num\bin\Debug\prime_num.exe
+C:\Users\alibs\source\repos\prime_num\prime_num\bin\Debug\prime_num.pdb
+C:\Users\alibs\source\repos\prime_num\prime_num\obj\Debug\prime_num.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\prime_num\prime_num\obj\Debug\prime_num.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\prime_num\prime_num\obj\Debug\prime_num.exe
+C:\Users\alibs\source\repos\prime_num\prime_num\obj\Debug\prime_num.pdb
